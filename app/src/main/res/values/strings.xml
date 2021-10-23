@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PD1HelloWorld</string>
+    <string name="textView2">This is the first application from Group 3</string>
+    <string name="this_is_the_first_application_from_group_3">This is the first application from Group 3</string>
+    <string name="j_nis_jansons">Jānis Jansons</string>
+    <string name="normunds">Normunds</string>
+    <string name="gun_rs">Gunārs</string>
+
+</resources>
